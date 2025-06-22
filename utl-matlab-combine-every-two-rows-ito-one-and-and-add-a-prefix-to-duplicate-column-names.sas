@@ -4,6 +4,10 @@
 
 matlab combine every two rows ito one and and add a prefix to duplicate column name
 
+github
+https://tinyurl.com/59n8athe
+https://github.com/rogerjdeangelis/utl-matlab-combine-every-two-rows-ito-one-and-and-add-a-prefix-to-duplicate-column-names
+
 stackoverflow matlab
 https://tinyurl.com/982vjmyc
 https://stackoverflow.com/questions/79396087/trying-to-reshape-rearrange-table-variables-in-matlab
